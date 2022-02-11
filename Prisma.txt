@@ -13,7 +13,6 @@ Ciri-ciri Prisma:
 2. Memiliki sisi tegak, yang tegak lurus dengan sisi sejajar
 
 Rumus Luas Permukaan Prisma = 2 Luas Segitiga + 3 Luas Segi Empat
-Jadi Luas Permukaan Prisma = 2 Luas Alas + (Keliling Alas x Tinggi)
 
 Rumus Volume Prisma = Luas Alas x Tinggi
 
