@@ -12,4 +12,9 @@ Ciri-ciri Prisma:
 1. Memiliki sisi alas dan tutup yang sebangun dan sejajar
 2. Memiliki sisi tegak, yang tegak lurus dengan sisi sejajar
 
-sumber: portaljember.pikiran-rakyat.com
+Rumus Luas Permukaan Prisma = 2 Luas Segitiga + 3 Luas Segi Empat
+
+Rumus Volume Prisma = Luas Alas x Tinggi
+
+
+sumber: portaljember.pikiran-rakyat.com, rumushitung.com
