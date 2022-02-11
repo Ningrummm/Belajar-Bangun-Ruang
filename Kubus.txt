@@ -1,0 +1,3 @@
+Kubus
+
+Rumus volume = sisi x sisi x sisi
