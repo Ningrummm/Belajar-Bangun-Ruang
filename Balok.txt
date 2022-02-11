@@ -1,0 +1,12 @@
+Balok
+
+Dilansir dari quipper.co.id, balok ialah bangun ruang 3 dimensi yang dibentuk tiga pasang persegi atau persegi panjang.
+
+Balok mempunyai unsur, sifat, rumus luas permukaan, bidang diagonal, volume, diagonal ruang, dan diagonal bidang.
+
+Sifat – Sifat balok :
+-> Sisi – sisi balok berbentuk persegi panjang.
+-> Rusuk – rusuk yang sejajar mempunyai ukuran sama panjang.
+-> Dipastikan diagonal dalam bidang sisi saling hadap – hadapan sama – sama memiliki ukuran panjang.
+-> Setiap diagonal ruang balok mempunyai ukuran sama panjang.
+-> Setiap bidang diagonal balok mempunyai bentuk persegi panjang.
