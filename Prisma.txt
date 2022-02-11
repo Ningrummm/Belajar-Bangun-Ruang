@@ -1,0 +1,15 @@
+Prisma
+
+Prisma merupakan bentuk bangun ruang yang identik dengan semua sisi semuanya datar. Prisma memiliki beberapa jenis, dimana nama prisma sesuai dengan bentuk sisi alas dan tutupnya.
+
+Jenis-jenis prisma:
+a. Prisma segitiga
+b. Prisma segiempat
+c. Prisma segilima
+d. Prisma segienam
+
+Ciri-ciri Prisma:
+1. Memiliki sisi alas dan tutup yang sebangun dan sejajar
+2. Memiliki sisi tegak, yang tegak lurus dengan sisi sejajar
+
+sumber: portaljember.pikiran-rakyat.com
